@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/martin/projects/huffman/include'
+let g:netrw_dirhist_3='/home/martin/projects/huffman/src'
+let g:netrw_dirhist_2='/home/martin/projects/huffman/include'
+let g:netrw_dirhist_1='/home/martin/projects/huffman/src'
+let g:netrw_dirhist_0='/home/martin/projects/huffman'
+let g:netrw_dirhist_9='/home/martin/projects/huffman/–p'
+let g:netrw_dirhist_8='/home/martin/projects/huffman/src'
+let g:netrw_dirhist_7='/home/martin/projects/huffman'
+let g:netrw_dirhist_6='/home/martin/projects/huffman/inputs'
+let g:netrw_dirhist_5='/home/martin/projects/huffman/include'
